@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ICDC - START.unity
+    guid: 50414fcaaa22c1e4597afe38ea0b248f
+  - enabled: 1
+    path: Assets/Scenes/ICDC - AR APP.unity
+    guid: 2a7722681dfca4d48828e5201bca1673
+  m_configObjects: {}
